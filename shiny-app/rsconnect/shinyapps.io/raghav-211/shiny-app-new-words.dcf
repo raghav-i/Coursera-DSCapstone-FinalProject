@@ -1,0 +1,14 @@
+name: shiny-app-new-words
+title: shiny-app-new-words
+username:
+account: raghav-211
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7863970
+bundleId: 6620639
+url: https://raghav-211.shinyapps.io/shiny-app-new-words/
+when: 1670693745.0107
+lastSyncTime: 1670693745.01072
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: build-ngram-frequencies.R|www/github.png|www/linkedin.png|www/twitter.png
