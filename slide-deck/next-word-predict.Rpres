@@ -70,4 +70,4 @@ inputting text. Choose up to three following word guesses using the slider tool.
 the top prediction, the second and third most likely next words will be displayed.
 </small>
 
-<img src="images/next-word-predict-ui.png">
+<img src="next-word-predict-ui.png">
