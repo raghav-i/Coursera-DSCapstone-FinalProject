@@ -30,7 +30,7 @@ The Next Word Predict app is running at:
 The Shiny app called Next Word Predict employs a text prediction algorithm to foretell 
 the following word or words from the user's input of text.
 
-An n-gram algorithm will be used by the programme to suggest the following word in 
+An n-gram algorithm will be used by the program to suggest the following word in 
 a sentence. An n-gram is a continuous string of *n* words taken from a particular textual sequence.
 
 A sizable corpus of blog, news, and twitter data was used to generate the text that 
