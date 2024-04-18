@@ -4,5 +4,3 @@ This is the final project for the Coursera Data Science Specialization, Johns Ho
 in a sentence based on the particular sequence of text inputs. 
 
 It is running at: https://raghav-i.shinyapps.io/shiny-app-new-words/
-
-The slide deck explaining the application is: https://rpubs.com/raghav-i/next-word
